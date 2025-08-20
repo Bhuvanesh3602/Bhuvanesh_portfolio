@@ -35,7 +35,8 @@ const Education: React.FC = () => {
         { semester: "SEMESTER 2", gpa: "8.814" },
         { semester: "SEMESTER 3", gpa: "8.980" },
         { semester: "SEMESTER 4", gpa: "9.191" },
-        { semester: "SEMESTER 5", gpa: "8.667" }
+        { semester: "SEMESTER 5", gpa: "8.667" },
+        { semester: "SEMESTER 6", gpa: "9.000"}
       ],
       color: "from-blue-500 to-purple-500"
     },
